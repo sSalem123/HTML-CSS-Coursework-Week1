@@ -14,23 +14,18 @@ Please complete the details below this message
 
 **Volunteers: Are you marking this coursework?** _You can find a guide on how to mark this coursework in `HOW_TO_MARK.md` in the root of this repository_
 
+
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+-  Name:Salem Dayfan
+-  City: Glasgow class 5
+-  Slack Name:Salem
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: HTML CSS
+- Week: 1
 
 # Notes
 
-- What did you find easy?
-
-- What did you find hard?
-
-- What do you still not understand?
-
-- Any other notes?
+NOT easy yet. but i get more confident about CSS. stili I am confusing of CSS 
